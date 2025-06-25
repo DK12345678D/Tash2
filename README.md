@@ -31,7 +31,7 @@ This Java CLI application is built as part of a **Java Developer Internship Task
 
 - **Java**  
 - **VS Code / IntelliJ IDEA CE**  
-- Java version: `JDK 17+`
+- Java version: `JDK 23`
 
 ---
 
